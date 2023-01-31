@@ -1,6 +1,6 @@
 package 코코아톡;
-
 // 인터페이스의 메소드는 자동으로 public abstract 로 만들어집니다.
+
 public interface NetAdapter {
     void connect();
     void send(String msg);

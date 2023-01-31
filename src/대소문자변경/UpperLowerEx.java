@@ -7,6 +7,7 @@ import java.util.Scanner;
 // 힌트 1 : 문자열에서 특정 문자를 추출하는 방법은 charAt(인덱스)
 // 힌트 2 : 문자는 내부적으로 정수값으로 간주되어 사용 된다.
 // 힌트 3 : 값을 출력 할때 정수 값이 아닌 문자로 표현하기 위해서는 형변환이 필요
+
 public class UpperLowerEx {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -6,7 +6,6 @@ public class SampleMethod {
     }
     void say() { // 매개변수도 없고 반환값도 없는 메소드
         System.out.println("안녕하세요. 만나서 반가워요^^");
-
     }
     String strSay() {
         return "안녕하세요. 만나서 반가워요^^";

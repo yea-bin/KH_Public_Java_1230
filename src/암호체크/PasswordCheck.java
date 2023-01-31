@@ -9,6 +9,7 @@ package 암호체크;
 import java.util.Scanner;
 
 // 길이체크, 숫자, 소문자체크, 대문자체크, 특문 체크
+
 public class PasswordCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

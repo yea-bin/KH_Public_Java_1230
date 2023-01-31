@@ -12,6 +12,7 @@ public class MovieSell {
         }
         System.out.println();
     }
+
     // 판매를 위해 좌석을 선택하도록 하는 메뉴
     void selectSeat() {
         printSeat();

@@ -42,10 +42,8 @@ public class ProductTV extends ProtoTypeTV {
                 channel = cnl;
             } else {
                 System.out.println("채널 설정 범위가 아닙니다.");
-
             }
         }
-
     }
     void viewTV() {
         System.out.println("이름 : " + name);

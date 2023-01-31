@@ -12,7 +12,6 @@ public class AutoGetSet {
         this.eMail = eMail;
         this.addr = addr;
     }
-
     public String getId() {
         return id;
     }

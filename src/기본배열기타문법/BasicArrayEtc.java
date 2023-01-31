@@ -12,6 +12,5 @@ public class BasicArrayEtc {
         int num1 = Integer.parseInt(strVal1);
         int num2 = Integer.parseInt(strVal2);
         System.out.println("외부로 부터 입력 받은 값 : " + (num1 + num2));
-
     }
 }

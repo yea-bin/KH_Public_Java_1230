@@ -4,6 +4,7 @@ import java.util.TreeSet;
 
 // Comparable/Comparator : 클래스에 대한 정렬을 구현할 수 있도록 하는 인터페이스
 // Comparable : 자신의 객체와 매개변수로 입력받은 객체를 비교함
+
 public class CompareEx1 {
     public static void main(String[] args) {
         TreeSet<CarEx> ts = new TreeSet<>();

@@ -10,4 +10,5 @@ public class Test1 {
         System.out.println("이름 : " + single.name);
         System.out.println("아이디 : " + single.id);
     }
+
 }

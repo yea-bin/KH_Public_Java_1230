@@ -3,6 +3,7 @@ package 로또번호만들기응용;
 // 첫번째부터 여섯번째 숫자는 0과 50사이의 랜덤 값
 // 마지막 보너스 숫자는 50 ~ 100 사이의 임의의 숫자
 // 배열 사용해서 값을 구하고 출력. 단, 중복 허용
+
 public class LottoApplyEx {
     public static void main(String[] args) {
         int [] lotto = new int[7];

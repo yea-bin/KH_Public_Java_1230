@@ -38,7 +38,6 @@ public class AirConMain {
                     System.out.println("에어컨을 종료 합니다.");
                     break;
                 }
-
             }
         }
     }

@@ -1,5 +1,4 @@
 package 프로퍼티예제2;
-
 import java.util.Properties;
 
 public class AppPropertiesEx {

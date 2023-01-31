@@ -24,6 +24,5 @@ public class CarTotalMain {
             default: System.out.println("차량 선택이 잘못 되었습니다.");
         }
         driver.driver(car, passCnt, dist[city], isMode);
-
     }
 }

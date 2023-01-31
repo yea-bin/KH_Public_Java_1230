@@ -10,6 +10,5 @@ public class OverloadingApply {
         buyer.buy(audio);
         buyer.buy(computer);
         buyer.viewInfo();
-
     }
 }

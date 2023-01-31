@@ -5,6 +5,7 @@ package 암호체크;
 // 특수문자는 (!, %, _, #, &, +, -, *, /) 의 9개 중의 하나
 // 입력 받은 패스워드가 조건을 만족하면 "Good password", 만족하지 않으면 "Bad password" 출력
 // 반복문을 사용하고 사용자가 "종료" 또는 "exit" 입력하면 프로그램 종료
+
 public class PwdCheckClass {
     // 길이 체크 메소드
     boolean validLength(String pwd) {

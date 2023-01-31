@@ -6,7 +6,6 @@ public abstract class Car {
     int fuelTank; // 연료 탱크 크기
     int seatCnt; // 좌석수
     String name; // 차 이름
-
     abstract void setMode(boolean isMode); // 상속 받은 쪽에서 구현
 
     // 이동 횟수 구하기 : 입력값으로 승객의 수가 필요

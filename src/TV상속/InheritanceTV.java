@@ -7,6 +7,5 @@ public class InheritanceTV {
         lgTV.setVolume(50);
         lgTV.setChannel(1500, true);
         lgTV.viewTV();
-
     }
 }

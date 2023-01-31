@@ -1,5 +1,6 @@
 package 배열에대한정렬;
 // 1차원 배열을 이용한 버블 정렬
+
 public class ArraySort {
     public static void main(String[] args) {
         int[] arr = {9,4,3,10,5,8,7,6,2,1};

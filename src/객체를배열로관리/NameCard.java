@@ -26,5 +26,6 @@ public class NameCard {
         System.out.println("나이 : " + age);
         System.out.println("연락처 : " + phone);
         System.out.println("메일 : " + mail);
+
     }
 }

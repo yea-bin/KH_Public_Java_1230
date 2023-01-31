@@ -1,5 +1,4 @@
 package System클래스;
-
 import static java.lang.Thread.sleep;
 
 public class SystemEx {

@@ -23,6 +23,7 @@ public class NetInterFace {
                 break;
             default:
                 System.out.println("네트워크 선택이 잘못 되었습니다.");
+
         }
     }
 }

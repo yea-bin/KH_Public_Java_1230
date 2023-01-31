@@ -5,6 +5,7 @@ package 메소드오버로딩;
 // 1. 메소드 이름이 같아야 함
 // 2. 반환 타입은 해당사항이 없음
 // 3. 매개변수의 타입이 다르거나, 개수가 다르거나, 순서가 다르면 가능
+
 public class MethodOverLoading {
     public static void main(String[] args) {
         System.out.println(sum(100,200));

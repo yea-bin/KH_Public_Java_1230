@@ -8,7 +8,5 @@ public class Resistance {
 
         Scanner sc = new Scanner(System.in);
         String clr = sc.next();
-
-
     }
 }

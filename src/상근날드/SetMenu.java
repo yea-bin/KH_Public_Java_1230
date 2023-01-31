@@ -6,6 +6,7 @@ import java.util.Scanner;
 // 3가지 햄버거의 가격 중 가장 싼 메뉴의 가격을 선택하고, 음료 중 가장 싼 메뉴의 가격을 선택
 // 세트 메뉴는 50원 할인 됨
 // 1000 1500 2000 500 1000 = 1500원에서 세트 메뉴 할인 => 1450
+
 public class SetMenu {
     public static void main(String[] args) {
         int [] menu = new int[5];

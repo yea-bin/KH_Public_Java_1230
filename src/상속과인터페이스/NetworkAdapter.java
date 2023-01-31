@@ -40,7 +40,6 @@ class FiveG extends Chat implements NetworkAdapter {
         this.company = company;
         this.name = name;
     }
-
     @Override
     String testName() {
         return "5G";

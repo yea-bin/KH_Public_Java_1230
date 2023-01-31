@@ -9,6 +9,7 @@ import java.util.Scanner;
 // zZa => Z
 // baaa => A
 // 알파벳은 총 26자다
+
 public class WordStudy {
     public static void main(String[] args) {
         int[] alphabet = new int[26]; // 알파벳 숫자만큼의 배열 생성
@@ -29,6 +30,5 @@ public class WordStudy {
             }
         }
         System.out.println(result);
-
     }
 }

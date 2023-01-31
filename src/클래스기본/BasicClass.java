@@ -10,7 +10,6 @@ public class BasicClass {
         System.out.println(santafe.carName);
 
         System.out.println(Car.Manufacturer);
-
     }
 }
 

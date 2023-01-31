@@ -16,6 +16,7 @@ public class DateEx1 {
         // hh : 12시간제 표시
         // W  : 월에서 몇주차인지 표시
         // w  : 년에서 몇주차인지 표시
+
         SimpleDateFormat f1, f2, f3, f4, f5, f6, f7;
         f1 = new SimpleDateFormat("yyyy-MM-dd");
         f2 = new SimpleDateFormat("yy/MM/dd");

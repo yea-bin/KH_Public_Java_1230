@@ -22,7 +22,5 @@ public class BasicArray {
         }
         System.out.println("총점 : " + sum);
         System.out.printf("평균 : %.2f\n", (double)sum/score.length);
-
-
     }
 }

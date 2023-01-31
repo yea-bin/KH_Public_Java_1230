@@ -9,6 +9,5 @@ public class TvMain {
         lgTv.setChannel(1000);
         lgTv.setVolume(90);
         lgTv.getTV();
-
     }
 }

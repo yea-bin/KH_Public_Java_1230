@@ -24,7 +24,6 @@ public class ArraysTestEx1 {
             if(index == 1000) break;
             isExist = false;
         }
-
         Arrays.sort(arr);
         for (int i = 0; i < arr.length; i++) {
             cnt++;

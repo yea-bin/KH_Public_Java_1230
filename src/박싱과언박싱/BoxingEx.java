@@ -12,6 +12,5 @@ public class BoxingEx {
 
         // Character ch = 'x';
         Character ch = new Character('x');
-
     }
 }

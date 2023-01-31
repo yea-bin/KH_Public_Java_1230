@@ -1,5 +1,4 @@
 package 열거타입;
-
 import java.util.Calendar;
 
 public class EnumTypeEx {

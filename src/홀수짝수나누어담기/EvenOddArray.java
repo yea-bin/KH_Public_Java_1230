@@ -20,7 +20,6 @@ public class EvenOddArray {
         }
     }
 
-
     void separateValue () {
         for (int e : inList) {
             if (e % 2 == 0) evenList.add(e);
@@ -33,6 +32,4 @@ public class EvenOddArray {
         System.out.println();
         for(int e : evenList) System.out.print(e + " ");
         }
-
-
 }

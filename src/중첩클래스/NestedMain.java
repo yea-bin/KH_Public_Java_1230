@@ -7,6 +7,7 @@ public class NestedMain {
         b.testMethod();
     }
 }
+
 class A {
     class B {
         void testMethod() {

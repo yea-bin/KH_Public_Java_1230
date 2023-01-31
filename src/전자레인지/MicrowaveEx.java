@@ -19,7 +19,5 @@ public class MicrowaveEx {
             c = t % 300 % 60 / 10;
             System.out.printf("T=%d%d%d\n", a,b,c);
         }
-
-
     }
 }

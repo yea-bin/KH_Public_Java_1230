@@ -1,5 +1,4 @@
 package 다운캐스팅;
-
 public class Animal {
     public void move() { // 인스턴스 메소드 (일반메소드)
         System.out.println("동물이 움직입니다.");

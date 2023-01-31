@@ -19,3 +19,4 @@ public class Developer {
         System.out.printf("성별 : " + gender);
     }
 }
+

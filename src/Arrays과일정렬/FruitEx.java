@@ -13,7 +13,7 @@ public class FruitEx {
     public static void main(String[] args) {
 //        Integer [] arr = {5,3,5,6,7,123,567,667};
 //        Arrays.sort(arr);
-//        for(int e : arr) System.out.print(e + " ");   내림차순 정렬
+//        for(int e : arr) System.out.print(e + " "); 내림차순 정렬
 //        Arrays.sort(arr, Collections.reverseOrder());
 //        for(int e : arr) System.out.print(e + " ");
 

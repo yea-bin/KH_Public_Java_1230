@@ -25,7 +25,6 @@ public class StringKMP {
 //            }
 //        }
 
-
         // 세번째 방법 : 0번째 문자를 출력하고, '-' 이후 문자를 출력하는 방법
 //        for(int i = 0; i < name.length(); i++) {
 //            if(i == 0) System.out.print(name.charAt(i));

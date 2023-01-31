@@ -15,6 +15,5 @@ public class StringSplit {
         int sec = Integer.parseInt(splitTime[2]); // 초에 대한 문자열을 정수로 변환
         if (hour > 11) System.out.printf("오후 %02d시 %02d분 %02d초\n", (hour - 12), min, sec);
         else System.out.printf("오후 %02d시 %02d분 %02d초\n", (hour), min, sec);
-
     }
 }

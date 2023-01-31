@@ -24,6 +24,7 @@ public class PersonInheritance {
         System.out.println("학생이 " + student.getStudy() + " 공부합니다.");
         System.out.println("학생의 나이는 " + student.getAge() + "입니다.");
         System.out.println("학생은 "+ student.getSleep() + "시간 동안 잠을 잡니다.");
+
     }
 }
 

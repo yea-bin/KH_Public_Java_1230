@@ -19,6 +19,5 @@ public class PcRoomEx {
             else pcRoom[seatNum - 1] = 1;
         }
         System.out.println(rejectCnt);
-
     }
 }

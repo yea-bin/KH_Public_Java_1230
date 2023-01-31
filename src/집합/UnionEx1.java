@@ -6,6 +6,7 @@ import java.util.HashSet;
 // 합집합 : 어느 한쪽에만 값이 존재해도 결과에 반영 (중복 값은 제거됨)
 // 교집합 : 양쪽에 모두 존재해야 결과에 반영
 // 차집합 : 앞에 집합에서 뒤에 집합을 뺀 것
+
 public class UnionEx1 {
     public static void main(String[] args) {
         HashSet<Integer> s1 = new HashSet<>(Arrays.asList(1,2,3,4,5,6));

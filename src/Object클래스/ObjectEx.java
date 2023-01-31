@@ -14,6 +14,7 @@ public class ObjectEx {
         System.out.println(student1.equals(student2));
     }
 }
+
 // 상속을 받지 않았더라도 기본적으로 Object 클래스로부터 상속 받고 있음
 // Object 클래스는 toString(), equals(), clone(), hashCode() 등의 메소드를 포함하고 있음
 class Student extends Object {

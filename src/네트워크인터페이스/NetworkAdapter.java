@@ -5,7 +5,6 @@ package 네트워크인터페이스;
 // 디폴트 메소드 : 예외적으로 구현부를 가지면 상속 받은 클래스에서 재정의해서 사용 가능합니다.
 // 정적 메소드 객체와 상관없이 인터페이스 타입으로 사용 가능
 
-
 public interface NetworkAdapter {
     void connect(); // 자동으로 abstract, public 이 붙음
 }

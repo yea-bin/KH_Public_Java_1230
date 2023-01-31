@@ -1,6 +1,7 @@
 package 클론메소드;
 // Cloneable 상속 받아 구현해야 할 메소드는 없음
 // clone() 메소드는 데이터 보호를 이유로 Cloneable 인터페이스를 구현한 클래스의 인스턴스만 사용 가능
+
 public class Member implements Cloneable {
     String id;
     String name;

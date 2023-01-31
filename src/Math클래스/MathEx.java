@@ -12,7 +12,6 @@ public class MathEx {
 //        for (int i = 0; i < 100; i++) {
 //            System.out.println((int) (Math.random() * 100) + 1); // 1부터 100 사이 임의의 수 생성
 //        }
-
 //        Random ran = new Random();
 //        System.out.println(ran.nextInt(100)); // 0부터 99 사이 임의의 수 생성
 

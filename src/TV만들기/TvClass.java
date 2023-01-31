@@ -20,7 +20,6 @@ public class TvClass {
         this.isON = isON; // 매개 변수로 전달 받은 값을 인스턴스 필드에 저장
         String onOffStr = (isON) ? "ON" : "OFF";
         System.out.println("TV 가 " + onOffStr + "되었습니다.");
-
     }
     void setChannel(int cnl) { // 해당 필드에 허용되지 않는 값이 들어오지 않도록 조건을 정함
         if(cnl >= 0 && cnl <= 999) {

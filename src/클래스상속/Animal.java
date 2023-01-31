@@ -1,5 +1,4 @@
 package 클래스상속;
-
 public class Animal {
     String name;
     void setName(String name) {

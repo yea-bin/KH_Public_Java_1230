@@ -8,10 +8,8 @@ public class ClassMainEx {
 
         Class pCls2 = Person.class; // 직접 class 대입하기
         System.out.println(pCls2.getSimpleName());
-
     }
 }
-
 class Person {
     private String name;
     private int age;

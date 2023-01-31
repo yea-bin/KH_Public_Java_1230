@@ -9,5 +9,4 @@ public class Car {
         this.color = "white";
         this.year = "2022";
     }
-
 }

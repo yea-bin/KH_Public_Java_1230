@@ -6,6 +6,7 @@ import java.util.TreeMap;
 // TreeMap : TreeSet 과 마찬가지로 이진검색트리로 구현됨
 // TreeSet 과 차이는 키와 값으로 구성된 Map.Entry 를 저장
 // 부모키값 기준으로 작은건 왼쪽 큰건 오른쪽으로 자동 저장
+
 public class TreeMapBasicEx {
     public static void main(String[] args) {
         TreeMap<Integer, String> score = new TreeMap<>();

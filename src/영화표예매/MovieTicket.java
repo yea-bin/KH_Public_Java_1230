@@ -8,6 +8,7 @@ import java.util.Scanner;
 // 종료하기를 누르면 현재까지 판매된 좌석의 총 금액을 구함
 // 극장의 좌석은 10개
 // 각 좌석당 판매 가격은 12000원
+
 public class MovieTicket {
     public static void main(String[] args) {
         MovieSell movieSell = new MovieSell();
@@ -22,6 +23,5 @@ public class MovieTicket {
                 break;
             }
         }
-
     }
 }

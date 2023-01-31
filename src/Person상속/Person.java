@@ -1,5 +1,4 @@
 package Person상속;
-
 public class Person {
     int age;
     int sleep;

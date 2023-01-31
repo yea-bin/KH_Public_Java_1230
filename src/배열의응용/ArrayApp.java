@@ -30,7 +30,6 @@ public class ArrayApp {
         for (int i =0; i < arr1.length; i++) {
             arr2[i] = arr1[i];
         }
-
         arr1[0] = 100;
         for(int e : arr1) System.out.print(e + " ");
         System.out.println();

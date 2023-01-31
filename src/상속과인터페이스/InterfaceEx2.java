@@ -3,6 +3,7 @@ package 상속과인터페이스;
 import java.util.Scanner;
 
 // 상속과 인터페이스 함께 사용하기
+
 public class InterfaceEx2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

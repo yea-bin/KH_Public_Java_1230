@@ -1,5 +1,4 @@
 package 열거타입응용;
-
 import java.util.Scanner;
 
 public class EnumApplyEx {

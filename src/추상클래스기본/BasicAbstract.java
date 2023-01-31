@@ -1,6 +1,7 @@
 package 추상클래스기본;
 // 추상화란? 실제가 없는 부모가 자식에게 상속을 주는 것
 // 부모가 선언한 추상 메소드는 자식 클래스에서 반드시 오버라이딩을 해서 기능을 구현 해야 합니다.
+
 public class BasicAbstract {
     public static void main(String[] args) {
         //Animal animal = new Animal();

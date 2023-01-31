@@ -1,5 +1,4 @@
 package 매개변수의다형성;
-
 import java.util.Scanner;
 
 public class PolyDriver {

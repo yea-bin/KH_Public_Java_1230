@@ -10,6 +10,7 @@ import java.util.Scanner;
 // 1 3 5 7 2 6 12 34 9 11
 // MIN : 1
 // MAX : 34
+
 public class MinMaxArray {
     public static void main(String[] args) {
         // 스캐너 생성
@@ -26,11 +27,13 @@ public class MinMaxArray {
         // 최소값, 최대값을 구하기 위해 배열의 첫번째값 대입
         int min = arr[0];
         int max = arr[0];
+
         // 반복문을 순회하면서 최소값과 최대값 찾기
 //        for(int e : arr) {
 //            if(min > e) min = e;
 //            if(max < e) max = e;
 //        }
+
         for(int i = 0; i < arr.length; i++) {
             if(min > arr[i]) min = arr[i];
             if(max < arr[i]) max = arr[i];

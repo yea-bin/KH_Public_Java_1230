@@ -15,7 +15,7 @@ public class ArraysMain {
         for(int i = 0; i < arr.length; i++) {
             arr[i] = (int)(Math.random() * num) + 1;
         }
-        // 배열의 값을 정렬하기
+        // 배열의 값 정렬하기
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr)); // 배열을 문자열로 찍어줌
         int rst = Arrays.binarySearch(arr, key); // 해당 위치를 반환 (0부터 시작하는 인덱스 값)

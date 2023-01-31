@@ -1,5 +1,6 @@
 package 슈퍼변수와메소드;
 //super : 자식 클래스가 부모클래스로부터 상속 받은 필드를 참조할 때 사용하는 참조 변수
+
 public class SuperMethod {
     public static void main(String[] args) {
         System.out.println("메인 메소드 호출^^^^");
@@ -8,7 +9,6 @@ public class SuperMethod {
 
     }
 }
-
 class Parent {
     int a;
     Parent() {

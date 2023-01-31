@@ -19,6 +19,5 @@ public class CloneMethod {
         String str2 = new String("abc");
         System.out.println(str1.hashCode());
         System.out.println(str2.hashCode());
-
     }
 }

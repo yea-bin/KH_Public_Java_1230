@@ -1,5 +1,4 @@
 package X보다작은수;
-
 import java.util.Scanner;
 
 // 첫째줄에 N과 X가 주어짐
@@ -8,6 +7,7 @@ import java.util.Scanner;
 // 10 5 => 배열의 갯수와 찾을 수를 연속해서 입력
 // 1 10 4 9 2 3 8 5 7 6
 // 결과 값 : 1 4 2 3
+
 public class LessXMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

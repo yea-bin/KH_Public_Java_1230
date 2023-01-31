@@ -9,6 +9,5 @@ public class GenericEx2 {
         Product<Integer, String> pr2 = new Product<>();
         pr2.setName(2024);
         pr2.setYear("2024");
-
     }
 }

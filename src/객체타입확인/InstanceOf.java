@@ -13,7 +13,6 @@ public class InstanceOf {
 
     }
 }
-
 class Parent {
     String name;
     Parent(String name) {

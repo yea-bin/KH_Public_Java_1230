@@ -26,6 +26,5 @@ public class MultipleGetEx {
             if (e % n == 0) System.out.println(e + " is a multiple of " + n + ".");
             else System.out.println(e + " is NOT a multiple of " + n + ".");
         }
-
     }
 }

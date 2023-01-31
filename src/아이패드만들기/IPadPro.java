@@ -1,5 +1,4 @@
 package 아이패드만들기;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;

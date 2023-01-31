@@ -11,6 +11,7 @@ public class Vehicle {
         System.out.println(name + "속도를 감소 시킵니다.");
     }
 }
+
 class SportsCar extends Vehicle {
     boolean isTurbo;
     SportsCar(String name) {

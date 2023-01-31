@@ -2,6 +2,7 @@ package 트리셋;
 // TreeSet : 이진 검색 트리 형태로 자동 정렬이 되면서 값이 저장 (데이터 추가/삭제 검색 등에서 매우 효율적)
 // 값은 이진 검색 트리 형태로 저장되고 검색은 중위 순회로 오름차순 진행
 import java.util.TreeSet;
+
 public class TreeSetEx {
     public static void main(String[] args) {
         TreeSet<Integer> ts = new TreeSet<>();

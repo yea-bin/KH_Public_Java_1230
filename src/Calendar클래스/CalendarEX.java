@@ -17,7 +17,7 @@ public class CalendarEX {
 //        System.out.println(now.get(Calendar.MINUTE));
 //        System.out.println(now.get(Calendar.SECOND));
 //
-        // yyyy년MM월dd HH시mm분ss초 형태를 Calendar 이용해 출력
+        // yyyy년MM월dd HH시mm분ss초 형태를 Calendar 이용해 출력하기
         int year = now.get(Calendar.YEAR);
         int mon = now.get(Calendar.MONTH) + 1;
         int day = now.get(Calendar.DAY_OF_MONTH);

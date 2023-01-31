@@ -9,6 +9,7 @@ import java.util.Properties;
 
 // 내부의 정보 저장용으로 사용, 키와 값이 모두 String 타입으로 제한됨
 // HashTable 의 하위클래스임
+
 public class PropertiesEx {
     public static void main(String[] args) throws IOException {
         Properties properties = new Properties();

@@ -1,5 +1,4 @@
 package 상속과인터페이스;
-
 public abstract class Chat {
     Chat() {}
     public void sendMsg() {

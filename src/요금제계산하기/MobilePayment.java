@@ -8,6 +8,7 @@ import java.util.Scanner;
 // 통화 시간 : 40 70 45 - 배열 갯수를 20개로 설정
 // 둘 중 싼 요금제 이름을 표시하고 통 요금 계산 (영식 요금제 : 총 통화 금액)
 // 총 통화 금액이 같으면 (영식/민식 요금제 : 총 통화 금액)
+
 public class MobilePayment {
     public static void main(String[] args) {
         // 총 통화 횟수 저장을 위한 배열 생성

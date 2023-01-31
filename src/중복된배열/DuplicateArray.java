@@ -8,6 +8,7 @@ import java.util.Scanner;
 // 임의의 수 입력(10개) : 1 2 3 4 5 1 2 3 4 5
 // 찾을 숫자 : 5
 // 결과 : 10
+
 public class DuplicateArray {
     public static void main(String[] args) {
         Scanner sc  = new Scanner(System.in); // 콘솔로부터 키 입력을 받기 위한 스캐너 객체 생성

@@ -3,6 +3,7 @@ package this참조변수;
 // this() : 클래스 내부에서는 기본적으로 여러개의 생성자를 만들 수 있음 (생성자 오버로딩)
 // 생성자 오버로딩 시 중복된 코드가 많이 발생하며, 이를 개선하기 위해서 this() 메소드를 사용
 // this() 메소드는 생성자 내부에서만 사용 가능하며, 생성자 내부에서 다른 생성자를 호출 하는 기능
+
 public class ThisReference {
     public static void main(String[] args) {
         Car santafe = new Car("Santafe", 2020,"White", 210);

@@ -1,5 +1,6 @@
 package 다중어레이;
 // 2차원 배열 : 행과 열이 존재
+
 public class DoubleArray {
     public static void main(String[] args) {
         int[][] arr = new int[2][3];

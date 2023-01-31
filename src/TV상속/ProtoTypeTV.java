@@ -1,5 +1,4 @@
 package TV상속;
-
 public class ProtoTypeTV {
     protected boolean isPower; // 전원에 대한 설정 값 저장
     protected int channel;

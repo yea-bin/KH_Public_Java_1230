@@ -18,6 +18,5 @@ public class SingletonMain {
         System.out.println(singleton1.name);
         System.out.println(singleton2.id);
         System.out.println(singleton2.name);
-
     }
 }

@@ -28,5 +28,4 @@ class Child2 {
     public void display() {
         System.out.println("상속 받아 재정의한 메소드");
     }
-
 }

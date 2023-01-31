@@ -1,5 +1,4 @@
 package 오버로딩응용;
-
 public class Product {
     int price;
     int bonusPoint;

@@ -18,7 +18,7 @@ public class ArrayListEx {
 //        System.out.println(pitches.size()); // List 내부에 있는 요소의 개수를 반환
 //        System.out.println(pitches.contains("142")); // 해당 값이 내부에 있는지 확인 (있으면 true)
 //        System.out.println(pitches.remove("140")); // 해당 값이 있으면 삭제하고 true 반환 (없으면 false)
-//        System.out.println(pitches.remove(0)); // 해당 인덱스의 값을 삭제하고 해당 값을 리턴
+//        System.out.println(pitches.remove(0)); // 해당 인덱스의 값을 삭제하고 해당 값 리턴
 //        System.out.println(pitches);
 
         String[] data = {"138", "129", "142", "150", "166", "123"};

@@ -21,6 +21,5 @@ public class StringAdd {
         int pos = frtStr.length() - n;
         String sub = frtStr.substring(pos);
         System.out.println(sub + secStr);
-
     }
 }

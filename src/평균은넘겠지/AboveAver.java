@@ -27,7 +27,6 @@ public class AboveAver {
         for (double e : rst) {
             System.out.printf("%.3f%%\n", e);
         }
-
     }
     // 각 케이스에 대한 학생수와 그리고 각각의 성적을 입력 받음
     // 입력 받은 성적에 대한 평균 구하기 (먼저 총점을 구해야 함)

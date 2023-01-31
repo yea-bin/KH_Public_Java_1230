@@ -24,7 +24,5 @@ public class SignBoardMake {
             System.out.println(sum + 1); // 숫자 맨 앞의 여백을 계산하기 위해서
             sum = 0; // 초기화 (0이 아니면 반복수행 해야 하니까)
         }
-
-
     }
 }

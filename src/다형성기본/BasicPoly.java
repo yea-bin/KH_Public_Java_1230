@@ -10,6 +10,5 @@ public class BasicPoly {
         Parent parent = new Child();
         parent.display();
         ((Child)parent).out(); // 형변환으로 접근
-
     }
 }

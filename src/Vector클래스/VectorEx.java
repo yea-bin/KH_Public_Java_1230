@@ -3,7 +3,6 @@ package Vector클래스;
 // 삽입과 삭제는 매우 느림 O(n), 동기화를 지원하지 않음 (멀티쓰레드 환경을 지원X) , 물리적으로 연속된 공간
 // Vector : 동적 배열, 물리적으로 연속된 공간, 내부적으로 ArrayList 구조가 동일, 동기화 지원하지만 느림
 // LinkedList : 물리적으로 연속되어 있지 않음, 양방향 링크드리스트, 검색은 느림, 삽입과 삭제는 빠름
-
 import java.util.List;
 import java.util.Vector;
 

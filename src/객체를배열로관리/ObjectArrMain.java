@@ -1,5 +1,4 @@
 package 객체를배열로관리;
-
 import java.util.Scanner;
 
 public class ObjectArrMain {
@@ -21,7 +20,6 @@ public class ObjectArrMain {
             System.out.print("연락처 : ");
             nameCards[i].setPhone(sc.next());
         }
-
         for (NameCard e : nameCards) e.printInfo();
     }
 }

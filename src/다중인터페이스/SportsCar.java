@@ -31,7 +31,6 @@ public class SportsCar extends Car implements AirCon, AutoDrive {
         System.out.println("에어컨 온도 : " + setTemp);
         System.out.println("자율 주행 : " + autoStr);
         System.out.println("터보 모드 : " + turboStr);
-
     }
 
     @Override

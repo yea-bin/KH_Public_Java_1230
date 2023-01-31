@@ -7,4 +7,5 @@ public class SingletonEx2Main {
         test1.setInfo("카리나", 22);
         test2.viewInfo();
     }
+
 }

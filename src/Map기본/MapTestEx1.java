@@ -28,11 +28,12 @@ public class MapTestEx1 {
 //            Integer value = map.get(key);
 //            System.out.println(key + " : " + value);
 //        }
+
         map.remove("최수연"); // 키로 Map.entry 제거
         System.out.println("총 Entry 수 : " + map.size());
         // replace() 메소드 이용해 값 수정
         map.replace("이준호", 91);
-        // 향상된 for 문을 이용하는 법
+        // 향상된 for 문 이용
         for (String key : map.keySet()) {
             System.out.println(key + " : " + map.get(key));
         }

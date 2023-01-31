@@ -26,6 +26,5 @@ public class PrimeEx1 {
         }
         if(isPrime) return n; // 해당 값이 소수이면 입력 받은 값을 반환
         else return 0; // 소수가 아니면 0 반환
-
     }
 }

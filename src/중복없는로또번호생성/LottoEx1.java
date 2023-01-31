@@ -23,6 +23,5 @@ public class LottoEx1 {
             isExist = false;
         }
         System.out.println(Arrays.toString(lotto));
-
     }
 }

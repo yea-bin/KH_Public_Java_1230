@@ -16,6 +16,7 @@ public class MemberInfo {
         this.phone = phone;
         this.age = age;
     }
+
     public void viewInfo() {
         System.out.println("이름 : " + name);
         System.out.println("아이디 : " + id);

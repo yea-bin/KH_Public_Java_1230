@@ -88,5 +88,4 @@ public class AirCon {
     public int getSetTemp() {
         return setTemp;
     }
-
 }

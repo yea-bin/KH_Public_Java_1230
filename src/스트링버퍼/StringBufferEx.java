@@ -18,7 +18,5 @@ public class StringBufferEx {
 
         System.out.println(sb);
         System.out.println(sb.substring(0, 4)); // 시작 인덱스부터 종료 인덱스 미만까지 문자열을 잘라냄
-
-
     }
 }

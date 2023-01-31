@@ -12,7 +12,6 @@ public class ArrayListTestEx3 {
                 "010-3456-7890", 20));
         memList.add(new MemberInfo("유나", "yuna", "yuna1234", "yuna@gmail.com",
                 "010-1111-9999", 21));
-
         for (MemberInfo info : memList) {
              info.viewInfo();
         }

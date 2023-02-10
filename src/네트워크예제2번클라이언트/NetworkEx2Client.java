@@ -8,11 +8,12 @@ public class NetworkEx2Client {
     public static void main(String[] args) {
         Socket socket = null;
         try {
-            socket = new Socket();
+            socket = new Socket(); // 소켓 생성
             System.out.println("[연결 요청]");
             socket.connect(new InetSocketAddress("localhost", 5001));
             System.out.println("[연결 성공]");
         } catch (Exception e) {}
+
         if (!socket.isClosed()) {
             try {
                 socket.close();
